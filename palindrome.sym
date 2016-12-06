@@ -1,0 +1,14 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	INPUT             3004
+//	CHECK             300A
+//	EQUAL             300F
+//	STOP              3015
+//	START             3016
+//	WORD              3028
+//	NEWLINE           305A
+//	NOTPALINDROME     305B
+//	PALINDROME        3070
+
